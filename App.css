@@ -1,0 +1,107 @@
+.App {
+  text-align: center;
+}
+*{
+  background-color: rgb(216, 226, 226);
+}
+.row
+{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+button{
+  border : none;
+  outline : none;
+}
+button:active {
+  background-color: #f1f1b7;
+  
+}
+.square{
+  font-size: 40px;
+ }
+.red{
+  color:red;
+  font-size: 40px;
+} 
+.green{
+  color:green;
+  font-size: 40px;
+}
+#a
+{
+  border: none;
+  border-right: 2px solid  black;
+  border-bottom: 2px solid black;
+  width: 60px;
+  height: 60px;
+
+}
+#b
+{
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  width: 60px;
+  height: 60px;
+
+}
+#c
+{
+  border-bottom: 2px solid black;
+  width: 60px;
+  height: 60px;
+
+}
+#d
+{
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  width: 60px;
+  height: 60px;
+
+}
+#e
+{
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  width: 60px;
+  height: 60px;
+
+}
+#f
+{
+  border-bottom: 2px solid black;
+  width: 60px;
+  height: 60px;
+
+}
+#g
+{
+  border-right: 2px solid black;
+  width: 60px;
+  height: 60px;
+
+}
+#h
+{
+  border-right: 2px solid black;
+  width: 60px;
+  height: 60px;
+
+}
+#i
+{
+  width: 60px;
+  height: 60px;
+
+}
+.btn
+{
+  margin-top: 10px;
+  width: 90px;
+  height: 30px;
+  color: rgb(241, 237, 12);
+  border-radius: 18%;
+  background-color: rgb(169, 168, 247);
+}
