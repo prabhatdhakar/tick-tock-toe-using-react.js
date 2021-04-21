@@ -1,0 +1,17 @@
+.title
+{
+  font-family: 'Montez', cursive;
+}
+#main
+{
+  font-size: 35px;
+  color: rgb(18, 34, 25);
+  text-align: center;
+}
+#sub
+{
+  font-size: 15px;
+  color: rgb(87, 79, 79);
+  text-align: center;
+  margin-bottom: 20px;
+}
